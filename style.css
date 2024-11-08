@@ -1,0 +1,12 @@
+<link rel="stylesheet" href="style.css" />
+
+img {
+    width: 200px;
+}
+
+body {
+    text-align: center;
+    font-family: 'Arial';
+    background: azure;
+    color: purple;
+  }
